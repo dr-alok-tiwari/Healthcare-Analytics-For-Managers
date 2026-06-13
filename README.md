@@ -2,22 +2,6 @@
 
 A complete Streamlit learning and career-readiness app for PGDM-HCM / MBA / Executive learners.
 
-## App title
-**Healthcare Analytics for Managers**  
-By **Dr Alok Tiwari**
-
-## Latest fix
-
-The **Manager Decision Room** has been rebuilt using a full-grid design:
-
-- 6 decision levels
-- 10 healthcare domains
-- 4 urgency levels
-- 5 situations for every Level × Domain × Urgency combination
-- Total: **1,200 decision situations**
-
-This ensures that filters such as **Strategic + Bed & Capacity + high** always show at least **5 matching decision situations**.
-
 ## What it includes
 
 - Healthcare analytics mindset
